@@ -1,0 +1,45 @@
+{
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "javascript.validate.enable": true,
+  "typescript.validate.enable": true,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "html.validate.scripts": false,
+  "html.validate.styles": false,
+  "editor.tabSize": 2,
+  "eslint.enable": true,
+  "eslint.options": {
+    "configFile": "eslint.config.js",
+    "ignorePath": ".eslintignore"
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact", "html" ],
+  "stylelint.enable": true,
+  "stylelint.autoFixOnSave": true,
+  "stylelint.allowEmptyInput": true,
+  "stylelint.configFile": "stylelint.config.js",
+  "stylelint.ignorePath": ".stylelintignore",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  }
+}
