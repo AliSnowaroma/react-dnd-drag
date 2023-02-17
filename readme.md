@@ -19,7 +19,7 @@ react-dnd
 
 sort
 
-![sort](./public/sort.gif)
+![sort](https://i.postimg.cc/htwmLZd0/2.gif)
 
 ### 可选拖拽
 
