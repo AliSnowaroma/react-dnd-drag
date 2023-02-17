@@ -19,6 +19,8 @@ react-dnd
 
 sort
 
+![sort](./public/sort.gif)
+
 ### 可选拖拽
 
 
